@@ -1,0 +1,10 @@
+[package]
+name = "large_index"
+version = "0.1.0"
+authors = ["michaelfilonenko"]
+edition = "2018"
+
+[dependencies]
+azul = { git = "https://github.com/maps4print/azul" }
+maplit = "1.0.1"
+serde_json = "1.0.37"
