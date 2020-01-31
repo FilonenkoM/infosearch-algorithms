@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Algorithm","foo is a function"],["SaveFormat",""]],"fn":[["vocabulary",""]],"struct":[["Statistics",""]]});
