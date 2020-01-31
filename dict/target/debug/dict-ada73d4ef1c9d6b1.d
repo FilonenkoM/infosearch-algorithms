@@ -1,1 +1,0 @@
-/Users/michaelfilonenko/LocalDocs/Export/dict/target/debug/dict-ada73d4ef1c9d6b1.dSYM: /Users/michaelfilonenko/LocalDocs/Export/dict/src/lib.rs /Users/michaelfilonenko/LocalDocs/Export/dict/src/main.rs /Users/michaelfilonenko/LocalDocs/Export/dict/src/vocabulary_entry.rs
