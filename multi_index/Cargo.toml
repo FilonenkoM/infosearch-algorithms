@@ -1,0 +1,10 @@
+[package]
+name = "multi_index"
+version = "0.1.0"
+authors = ["michaelfilonenko"]
+edition = "2018"
+
+[dependencies]
+serde_json = "1.0.37"
+serde = "1.0"
+ron = "0.4.0"
