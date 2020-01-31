@@ -1,4 +1,5 @@
-.DS_Stor
+.DS_Store
 dist
 target/
-e
+Cargo.lock
+.vscode
