@@ -1,0 +1,8 @@
+[package]
+name = "vector_model"
+version = "0.1.0"
+authors = ["michaelfilonenko"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
